@@ -1,4 +1,4 @@
-#verifica si 'x' es negativo, 'y' es positivo, y 'z' es cero
+#verifica si 'x' es negativo
 
 x, y, z = -3, 5, 0
 
