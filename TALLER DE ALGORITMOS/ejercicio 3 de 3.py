@@ -16,3 +16,8 @@ else:
 
 #verfica si z es cero
 
+if z == 0:
+     print(f"'z' es igual a cero")
+else:
+     print(f"'z' no es igual a cero")
+
